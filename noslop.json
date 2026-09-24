@@ -1,0 +1,20 @@
+{
+  "name": "no-ai-slop-rules",
+  "version": "1.0.0",
+  "description": "Strict AI design and development rules by Putra Dev",
+  "author": "Putra Dev",
+  "rules": [
+    "rules/core.md",
+    "rules/ui.md",
+    "rules/typography.md",
+    "rules/color.md",
+    "rules/spacing.md",
+    "rules/components.md",
+    "rules/animation.md",
+    "rules/responsive.md",
+    "rules/accessibility.md",
+    "rules/code-quality.md",
+    "rules/anti-patterns.md",
+    "rules/liquid-glass.md"
+  ]
+}
