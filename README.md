@@ -16,7 +16,7 @@ npm install -g no-ai-slop
 Initialize it in your project and install these rules:
 ```bash
 noslop init
-noslop install https://github.com/putradev/no-ai-slop-rules
+noslop install https://github.com/dukunhost11/no-ai-slop-rules
 noslop apply --target all
 ```
 
